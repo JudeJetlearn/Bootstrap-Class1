@@ -1,3 +1,23 @@
 .bgcolor1{
     background-color: aquamarine;
 }
+
+.bg-4{
+    background-color: silver;
+    color: black;
+}
+
+.bg-3{
+    background-color: orange;
+    color: rgb(0, 0, 0);
+}
+
+.margin{
+    margin-bottom: 20px;
+}
+
+h1{
+  font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
